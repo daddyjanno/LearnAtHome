@@ -53,7 +53,7 @@ Pour ce faire, j'ai centralisé les informations en fonction des différentes pa
 ## Liens utiles:  
 
   - [Repo GitHub](https://github.com/daddyjanno/LearnAtHome)
-  - [Voir la maquette Figma](https://www.figma.com/file/vzsf5rgUdcwQ9yQd451LEF/Learn%40home?type=design&node-id=0%3A1&mode=design&t=OEb1ihmWyJ6P3URc-1) ou [télécharger la version hors-ligne](https://github.com/daddyjanno/LearnAtHome/blob/main/Maquettes/Learn%40home.fig)
+  - [Voir la maquette Figma](https://www.figma.com/file/vzsf5rgUdcwQ9yQd451LEF/Learn%40home?type=design&node-id=0%3A1&mode=design&t=OEb1ihmWyJ6P3URc-1) ou [télécharger la version hors-ligne](https://github.com/daddyjanno/LearnAtHome/blob/main/Maquette/Maquettes/Learn%40home.fig)
   - Accéder au [Kanban](https://www.notion.so/Dev4U-projet-Learn-Home-5d01bd3b3bdc40a5993172394541b991) du projet pour visualiser les tickets à répartir et leurs difficultés respectives
 
 
