@@ -9,4 +9,4 @@ Vous êtes employé depuis 5 ans chez Dev4U, une entreprise de services du numé
   - une dédiée au Web, qui comprend 8 personnes.
 
 
-A partir des besoins clients établis lors d'une première réunion, et rassemblées dans ![ce document](https://github.com/daddyjanno/LearnAtHome/blob/main/Notes%2B-%2BR%C3%A9union%2BLearn%40Home.pdf)
+A partir des besoins clients établis lors d'une première réunion, et rassemblées dans [ce document](https://github.com/daddyjanno/LearnAtHome/blob/main/Notes%2B-%2BR%C3%A9union%2BLearn%40Home.pdf)
